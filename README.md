@@ -89,6 +89,6 @@ AI Lead and Project Lead for a 7-person team, owning the model architecture and 
 
 <div align="center">
 
-Open to AI/ML Engineer roles and internships. Based in Egypt, targeting Gulf markets next.
+Open to AI/ML Engineer roles and internships.
 
 </div>
