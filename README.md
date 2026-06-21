@@ -96,6 +96,7 @@ A multi-agent system that reviews GitHub pull requests automatically: fetches a 
 **Generative AI & Computer Vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square&logoColor=black)
 ![Diffusers](https://img.shields.io/badge/🧨%20Diffusers-FFD21E?style=flat-square&logoColor=black)
 ![PEFT/LoRA](https://img.shields.io/badge/PEFT%2FLoRA-EE4C2C?style=flat-square)
