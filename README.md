@@ -7,7 +7,7 @@
 Building production-grade machine learning systems, from fine-tuned diffusion models to agentic pipelines.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahm-akram)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedakram4292@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedakram7800@gmail.com)
 
 </div>
 
