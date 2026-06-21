@@ -131,13 +131,12 @@ A multi-agent system that reviews GitHub pull requests automatically: fetches a 
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Ahmed3280&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed3280&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
 </div>
 
 ---
 
 <div align="center">
 
-Open to AI/ML Engineer roles and internships. Based in Egypt, targeting Gulf markets next.
+Open to AI/ML Engineer roles and internships.
 
 </div>
