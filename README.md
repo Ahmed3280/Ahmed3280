@@ -73,7 +73,8 @@ A multi-agent system that reviews GitHub pull requests automatically: fetches a 
 - Infra terminated after demo recording to control cost, redeployable from the Docker image above
 
 [**→ PR_Reviewer repo**](https://github.com/Ahmed3280/PR_Reviewer)
-[**→ PR_Reviewer DEMO**]([https://github.com/Ahmed3280/PR_Reviewer](https://www.linkedin.com/posts/ahm-akram_langchain-langgraph-generativeai-ugcPost-7473336860979916801-pypx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPWV-gBgHDP4p_62oLfgS-vqdy4iKActkQ))
+
+[**→ PR_Reviewer DEMO**](https://www.linkedin.com/posts/ahm-akram_langchain-langgraph-generativeai-ugcPost-7473336860979916801-pypx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPWV-gBgHDP4p_62oLfgS-vqdy4iKActkQ)
 
 ---
 
