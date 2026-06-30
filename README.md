@@ -77,7 +77,7 @@ A multi-agent system that reviews GitHub pull requests automatically: fetches a 
 
 ---
 
-### 🧮 Fundamentals — ML From Scratch
+### 🧮 Fundamentals ML From Scratch
 
 Core ML algorithms re-implemented with raw NumPy — no `sklearn.fit()`, no autograd, every gradient and split derived and coded by hand. Built to prove mechanical understanding underneath the frameworks used in the projects above.
 
