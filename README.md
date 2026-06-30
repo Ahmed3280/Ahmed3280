@@ -2,7 +2,7 @@
 
 # Ahmed Akram
 
-### AI/ML Engineer · Computer Vision · Generative AI & Arabic NLP · MLOps Engineering
+### AI/ML Engineer · Computer Vision · Generative AI · MLOps Engineering
 
 Building production-grade machine learning systems, from fine-tuned diffusion models to agentic, multi-agent pipelines.
 
