@@ -79,16 +79,16 @@ A multi-agent system that reviews GitHub pull requests automatically: fetches a 
 
 ### 🧮 Fundamentals ML From Scratch
 
-Core ML algorithms re-implemented with raw NumPy — no `sklearn.fit()`, no autograd, every gradient and split derived and coded by hand. Built to prove mechanical understanding underneath the frameworks used in the projects above.
+Core ML algorithms re-implemented with raw NumPy no `sklearn.fit()`, no autograd, every gradient and split derived and coded by hand. Built to prove mechanical understanding underneath the frameworks used in the projects above.
 
 | Algorithm | Validated against sklearn |
 |---|---|
-| Linear Regression | California Housing — MSE within 0.02 of sklearn |
-| Logistic Regression | Breast Cancer Wisconsin — 97.4% accuracy |
-| KNN | Wine dataset — matched/exceeded sklearn (100% vs 97.2% at best K) |
-| K-Means | Mall Customer Segmentation — Inertia 65.58 vs sklearn's 65.57 |
-| Decision Tree | Breast Cancer Wisconsin — predictions matched sklearn exactly, sample-for-sample |
-| Random Forest | Breast Cancer Wisconsin — 94.74% test accuracy vs sklearn's 95.61% |
+| Linear Regression | California Housing MSE within 0.02 of sklearn |
+| Logistic Regression | Breast Cancer Wisconsin 97.4% accuracy |
+| KNN | Wine dataset matched/exceeded sklearn (100% vs 97.2% at best K) |
+| K-Means | Mall Customer Segmentation Inertia 65.58 vs sklearn's 65.57 |
+| Decision Tree | Breast Cancer Wisconsin predictions matched sklearn exactly, sample-for-sample |
+| Random Forest | Breast Cancer Wisconsin 94.74% test accuracy vs sklearn's 95.61% |
 
 [**→ ML_From_Scratch repo**](https://github.com/Ahmed3280/ML-From-Scratch)
 
@@ -98,8 +98,8 @@ Core ML algorithms re-implemented with raw NumPy — no `sklearn.fit()`, no auto
 
 | Project | What it does |
 |---|---|
-| **[Image_Segmentation_with_UNet_PyTorch](https://github.com/Ahmed3280/Image_Segmentation_with_UNet_PyTorch)** | U-Net built from scratch (encoder-decoder, skip connections) for binary image segmentation, with mixed-precision training pipeline — 99.16% accuracy, 0.978 Dice score |
-| **[ResNet9_Plant_Disease](https://github.com/Ahmed3280/ResNet9_Plant_Disease)** | Custom ResNet9 architecture built from scratch (no pretrained weights), trained with One-Cycle LR policy and gradient clipping — 99.14% validation accuracy on plant disease classification |
+| **[Image_Segmentation_with_UNet_PyTorch](https://github.com/Ahmed3280/Image_Segmentation_with_UNet_PyTorch)** | U-Net built from scratch (encoder-decoder, skip connections) for binary image segmentation, with mixed-precision training pipeline 99.16% accuracy, 0.978 Dice score |
+| **[ResNet9_Plant_Disease](https://github.com/Ahmed3280/ResNet9_Plant_Disease)** | Custom ResNet9 architecture built from scratch (no pretrained weights), trained with One-Cycle LR policy and gradient clipping 99.14% validation accuracy on plant disease classification |
 | **[ViT_PyTorch_Paper_Replicating_and_Pretrained_Models](https://github.com/Ahmed3280/ViT_PyTorch_Paper_Replicating_and_Pretrained_Models)** | Vision Transformer replicated from scratch in PyTorch, benchmarked against pretrained DEFAULT (97.66%) and SWAG (98.67%) weights |
 | **[Hand_Gesture_ITI](https://github.com/Ahmed3280/Hand_Gesture_ITI)** | Real-time hand gesture recognition: MediaPipe landmark extraction + XGBoost classifier, 98.79% accuracy |
 
