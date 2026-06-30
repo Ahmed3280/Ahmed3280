@@ -74,12 +74,32 @@ A multi-agent system that reviews GitHub pull requests automatically: fetches a 
 
 [**→ PR_Reviewer repo**](https://github.com/Ahmed3280/PR_Reviewer)<br>
 [**→ PR_Reviewer demo**](https://www.linkedin.com/posts/ahm-akram_langchain-langgraph-generativeai-ugcPost-7473336860979916801-pypx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPWV-gBgHDP4p_62oLfgS-vqdy4iKActkQ)
+
+---
+
+### 🧮 Fundamentals — ML From Scratch
+
+Core ML algorithms re-implemented with raw NumPy — no `sklearn.fit()`, no autograd, every gradient and split derived and coded by hand. Built to prove mechanical understanding underneath the frameworks used in the projects above.
+
+| Algorithm | Validated against sklearn |
+|---|---|
+| Linear Regression | California Housing — MSE within 0.02 of sklearn |
+| Logistic Regression | Breast Cancer Wisconsin — 97.4% accuracy |
+| KNN | Wine dataset — matched/exceeded sklearn (100% vs 97.2% at best K) |
+| K-Means | Mall Customer Segmentation — Inertia 65.58 vs sklearn's 65.57 |
+| Decision Tree | Breast Cancer Wisconsin — predictions matched sklearn exactly, sample-for-sample |
+| Random Forest | Breast Cancer Wisconsin — 94.74% test accuracy vs sklearn's 95.61% |
+
+[**→ ML_From_Scratch repo**](https://github.com/Ahmed3280/ML-From-Scratch)
+
 ---
 
 ### 📌 Other Projects
 
 | Project | What it does |
 |---|---|
+| **[Image_Segmentation_with_UNet_PyTorch](https://github.com/Ahmed3280/Image_Segmentation_with_UNet_PyTorch)** | U-Net built from scratch (encoder-decoder, skip connections) for binary image segmentation, with mixed-precision training pipeline — 99.16% accuracy, 0.978 Dice score |
+| **[ResNet9_Plant_Disease](https://github.com/Ahmed3280/ResNet9_Plant_Disease)** | Custom ResNet9 architecture built from scratch (no pretrained weights), trained with One-Cycle LR policy and gradient clipping — 99.14% validation accuracy on plant disease classification |
 | **[ViT_PyTorch_Paper_Replicating_and_Pretrained_Models](https://github.com/Ahmed3280/ViT_PyTorch_Paper_Replicating_and_Pretrained_Models)** | Vision Transformer replicated from scratch in PyTorch, benchmarked against pretrained DEFAULT (97.66%) and SWAG (98.67%) weights |
 | **[Hand_Gesture_ITI](https://github.com/Ahmed3280/Hand_Gesture_ITI)** | Real-time hand gesture recognition: MediaPipe landmark extraction + XGBoost classifier, 98.79% accuracy |
 
@@ -120,24 +140,3 @@ A multi-agent system that reviews GitHub pull requests automatically: fetches a 
 ![AWS](https://img.shields.io/badge/AWS%20(EC2%2FS3)-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![RunPod](https://img.shields.io/badge/RunPod%20Serverless-6E3AF2?style=flat-square)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ahmed3280&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
----
-
-<div align="center">
-
-Open to AI/ML Engineer roles and internships.
-
-</div>
